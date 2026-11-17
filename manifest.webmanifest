@@ -1,0 +1,16 @@
+{
+  "name": "Bierpong Turnier",
+  "short_name": "Bierpong",
+  "description": "Turnierbaum für Bierpong mit Double Elimination: Ergebnisse eintragen, Sieger rücken automatisch weiter.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EDF0F4",
+  "theme_color": "#1B2430",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
